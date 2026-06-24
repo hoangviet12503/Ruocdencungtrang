@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d6c1f2dcdedd9048bbc18bcc50caaf5, type: 3}
+  m_Name: Voucher_voucher_box_utility
+  m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
+  id: voucher_box_utility
+  partnerName: "MoMo Thanh To\xE1n"
+  title: "Gi\u1EA3m 15% ti\u1EC1n \u0111i\u1EC7n n\u01B0\u1EDBc"
+  thumbnail: {fileID: 21300000, guid: a71ce8cf6e403e1429120955d9e30601, type: 3}
+  costInLanternPoints: 0
+  stockLimit: -1

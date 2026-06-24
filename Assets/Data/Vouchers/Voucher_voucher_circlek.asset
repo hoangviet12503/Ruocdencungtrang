@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d6c1f2dcdedd9048bbc18bcc50caaf5, type: 3}
+  m_Name: Voucher_voucher_circlek
+  m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
+  id: voucher_circlek
+  partnerName: CircleK
+  title: "Voucher 30.000\u0111 to\xE0n c\u1EEDa h\xE0ng"
+  thumbnail: {fileID: 21300000, guid: e21e5f98090980841972903e4620c90a, type: 3}
+  costInLanternPoints: 80
+  stockLimit: -1

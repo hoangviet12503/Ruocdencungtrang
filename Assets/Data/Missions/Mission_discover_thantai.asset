@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 702cc3e5d24285449990df60d9aab4e2, type: 3}
+  m_Name: Mission_discover_thantai
+  m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
+  id: discover_thantai
+  title: "Kh\xE1m Ph\xE1 V\xED Th\u1EA7n T\xE0i"
+  description: "Gh\xE9 th\u0103m V\xED Th\u1EA7n T\xE0i \u0111\u1EC3 nh\u1EADn L\u01B0\u1EE3t
+    Ch\u01A1i."
+  category: 1
+  rewardType: 0
+  rewardAmount: 15
+  deepLink: momo://wallet/than-tai
+  serverVerificationKey: 
+  isDailyRepeating: 0
