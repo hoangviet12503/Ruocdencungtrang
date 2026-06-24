@@ -98,7 +98,7 @@ namespace MidAutumn.UI
                 textComponent = textTransform.gameObject.AddComponent<Text>();
 
             textComponent.text = "Đang tải...";
-            textComponent.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+            textComponent.font = Resources.Load<Font>("DINPro-Medium");
             textComponent.fontSize = 48;
             textComponent.fontStyle = FontStyle.Bold;
             textComponent.alignment = TextAnchor.MiddleCenter;
