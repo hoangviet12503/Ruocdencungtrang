@@ -10,9 +10,9 @@ namespace MidAutumn.Data
     public class ItemData : ScriptableObject
     {
         [Header("Identity")]
-        [Tooltip("1-7. Level 7 (Đầu Lân May Mắn) is MAX and cannot merge further.")]
+        [Tooltip("1-7. Level 7 (Lucky Lion Head) is MAX and cannot merge further.")]
         [Range(1, 7)] public int level = 1;
-        public string displayName = "Nến Đêm Rằm";
+        public string displayName = "Mid-Autumn Candle";
 
         [Header("Visuals")]
         public Sprite icon;

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ItemData_Lvl4
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ItemData
   level: 4
-  displayName: "\u0110\xE8n C\xE1 Ch\xE9p"
+  displayName: "Fish Lantern"
   icon: {fileID: 21300000, guid: 48c7a42e6ba5d044e9cb36ed391aa991, type: 3}
   glowColor: {r: 1, g: 0.7, b: 0.5, a: 1}
   nextLevelData: {fileID: 11400000, guid: 88fe63bb6c476e442a3e9c5ed52cd9c3, type: 2}

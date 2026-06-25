@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
   id: voucher_highlands
   partnerName: Highlands Coffee
-  title: "Gi\u1EA3m 50.000\u0111 cho h\xF3a \u0111\u01A1n t\u1EEB 100.000\u0111"
+  title: "50,000\u0111 Off Orders From 100,000\u0111"
   thumbnail: {fileID: 21300000, guid: 5ad45b9b8309ce64a81b4b591c1f877a, type: 3}
   costInLanternPoints: 100
   stockLimit: -1

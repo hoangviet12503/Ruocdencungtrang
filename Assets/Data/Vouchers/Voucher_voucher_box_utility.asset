@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Voucher_voucher_box_utility
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
   id: voucher_box_utility
-  partnerName: "MoMo Thanh To\xE1n"
-  title: "Gi\u1EA3m 15% ti\u1EC1n \u0111i\u1EC7n n\u01B0\u1EDBc"
+  partnerName: "MoMo Payment"
+  title: "15% Off Electricity & Water Bills"
   thumbnail: {fileID: 21300000, guid: a71ce8cf6e403e1429120955d9e30601, type: 3}
   costInLanternPoints: 0
   stockLimit: -1

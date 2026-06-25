@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1411982ae18bec24da8edeccd0cf9b43
+guid: 0ba799fe1136c5e4cbe2b79061ef3e97
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,9 +9,8 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - DINPro
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 0ba799fe1136c5e4cbe2b79061ef3e97, type: 3}
+  - Arial
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

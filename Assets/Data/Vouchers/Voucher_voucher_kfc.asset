@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
   id: voucher_kfc
   partnerName: KFC
-  title: "T\u1EB7ng 1 ph\u1EA7n g\xE0 r\xE1n size M"
+  title: "Free 1 Piece Fried Chicken (Size M)"
   thumbnail: {fileID: 21300000, guid: 7ac9c81ce9dd52a4288312b1b9895dfa, type: 3}
   costInLanternPoints: 150
   stockLimit: -1

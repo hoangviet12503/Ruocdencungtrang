@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.VoucherData
   id: voucher_circlek
   partnerName: CircleK
-  title: "Voucher 30.000\u0111 to\xE0n c\u1EEDa h\xE0ng"
+  title: "30,000\u0111 Voucher Storewide"
   thumbnail: {fileID: 21300000, guid: e21e5f98090980841972903e4620c90a, type: 3}
   costInLanternPoints: 80
   stockLimit: -1

@@ -25,7 +25,7 @@ namespace MidAutumn.Data
         [Tooltip("Stable unique id, used as the save-data key. Do not rename after launch.")]
         public string id;
 
-        public string title = "Khám phá Ví Thần Tài";
+        public string title = "Explore Than Tai Wallet";
         [TextArea] public string description;
 
         public MissionCategory category = MissionCategory.Retention;

@@ -154,7 +154,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "C\xF2n l\u1EA1i: 0"
+  m_Text: "Remaining: 0"
 --- !u!1 &2378188256429839600
 GameObject:
   m_ObjectHideFlags: 0
@@ -647,7 +647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0110\xE3 Nh\u1EADn"
+  m_Text: "Claimed"
 --- !u!1 &7250707506113025912
 GameObject:
   m_ObjectHideFlags: 0
@@ -726,7 +726,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0110\u1ED5i Qu\xE0"
+  m_Text: "Redeem"
 --- !u!1 &8141619069993636087
 GameObject:
   m_ObjectHideFlags: 0

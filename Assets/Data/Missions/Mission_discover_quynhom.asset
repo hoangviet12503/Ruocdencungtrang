@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_discover_quynhom
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: discover_quynhom
-  title: "Gh\xE9 Th\u0103m Qu\u1EF9 Nh\xF3m"
-  description: "Kh\xE1m ph\xE1 t\xEDnh n\u0103ng Qu\u1EF9 Nh\xF3m c\xF9ng b\u1EA1n
-    b\xE8 v\xE0 gia \u0111\xECnh."
+  title: "Visit Group Fund"
+  description: "Discover the Group Fund feature with friends and family."
   category: 1
   rewardType: 0
   rewardAmount: 15

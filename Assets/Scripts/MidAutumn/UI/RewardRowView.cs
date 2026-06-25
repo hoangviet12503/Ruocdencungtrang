@@ -25,7 +25,7 @@ namespace MidAutumn.UI
             thumbnail.sprite = voucher.thumbnail;
             partnerNameText.text = voucher.partnerName;
             titleText.text = voucher.title;
-            if (costText != null) costText.text = "Có thể nhận khi chơi";
+            if (costText != null) costText.text = "Available through gameplay";
             if (stockText != null) stockText.text = string.Empty;
             if (ownedBadge != null) ownedBadge.SetActive(false);
             redeemButton.gameObject.SetActive(false);

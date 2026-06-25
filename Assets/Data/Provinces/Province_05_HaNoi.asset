@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ProvinceData
   stageIndex: 4
   displayNumber: 5
-  displayName: "H\xE0 N\u1ED9i"
+  displayName: "Hanoi"

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ItemData_Lvl6
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ItemData
   level: 6
-  displayName: "B\xE1nh N\u01B0\u1EDBng"
+  displayName: "Baked Mooncake"
   icon: {fileID: 21300000, guid: 0a2f009fabab42a41902156058f2a452, type: 3}
   glowColor: {r: 1, g: 0.5, b: 0.6, a: 1}
   nextLevelData: {fileID: 11400000, guid: 0a353546706e81c4caef3fe9493f7b8e, type: 2}

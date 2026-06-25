@@ -110,7 +110,7 @@ namespace MidAutumn.Gameplay
                 if (verified)
                     CompleteAndAutoClaim(mission);
                 else
-                    OnMissionFailed?.Invoke(mission, "Chưa hoàn thành. Vui lòng thử lại sau.");
+                    OnMissionFailed?.Invoke(mission, "Not completed yet. Please try again later.");
             });
         }
 

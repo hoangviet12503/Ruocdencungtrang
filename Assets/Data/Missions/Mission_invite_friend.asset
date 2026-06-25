@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_invite_friend
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: invite_friend
-  title: "R\u01B0\u1EDBc \u0110\xE8n C\xF9ng B\u1EA1n B\xE8"
-  description: "M\u1EDDi m\u1ED9t ng\u01B0\u1EDDi b\u1EA1n c\xF9ng tham gia s\u1EF1
-    ki\u1EC7n Trung Thu."
+  title: "Lantern Parade With Friends"
+  description: "Invite a friend to join the Mid-Autumn event."
   category: 0
   rewardType: 0
   rewardAmount: 30

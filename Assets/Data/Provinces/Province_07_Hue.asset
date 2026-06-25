@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ProvinceData
   stageIndex: 6
   displayNumber: 7
-  displayName: "Hu\u1EBF"
+  displayName: "Hue"

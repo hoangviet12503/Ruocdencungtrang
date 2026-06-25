@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_engage_savings_goal
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: engage_savings_goal
-  title: "T\u1EA1o M\u1EE5c Ti\xEAu Ti\u1EBFt Ki\u1EC7m Nh\xF3m"
-  description: "T\u1EA1o m\u1ED9t m\u1EE5c ti\xEAu ti\u1EBFt ki\u1EC7m nh\xF3m c\xF9ng
-    ng\u01B0\u1EDDi th\xE2n, b\u1EA1n b\xE8."
+  title: "Create a Group Savings Goal"
+  description: "Create a group savings goal with family or friends."
   category: 2
   rewardType: 0
   rewardAmount: 50

@@ -32,8 +32,8 @@ namespace MidAutumn.UI
             titleText.text = mission.title;
             descriptionText.text = mission.description;
             rewardText.text = mission.rewardType == MissionRewardType.Tickets
-                ? $"+{mission.rewardAmount} Kẹo"
-                : $"+{mission.rewardAmount} Điểm Lồng Đèn";
+                ? $"+{mission.rewardAmount} Candy"
+                : $"+{mission.rewardAmount} Lantern Points";
 
             actionButton.onClick.RemoveAllListeners();
             actionButton.onClick.AddListener(HandleClick);
@@ -46,17 +46,17 @@ namespace MidAutumn.UI
             bool claimed = _missionManager.IsClaimed(_mission);
             actionButton.interactable = !claimed;
             claimedCheckmark.SetActive(claimed);
-            actionButtonLabel.text = claimed ? "Đã nhận" : ButtonLabelFor(_mission.category);
+            actionButtonLabel.text = claimed ? "Claimed" : ButtonLabelFor(_mission.category);
         }
 
         private static string ButtonLabelFor(MissionCategory category)
         {
             switch (category)
             {
-                case MissionCategory.Retention: return "Điểm Danh";
-                case MissionCategory.EcosystemDiscovery: return "Khám Phá";
-                case MissionCategory.EcosystemEngagement: return "Thực Hiện";
-                default: return "Thực Hiện";
+                case MissionCategory.Retention: return "Check In";
+                case MissionCategory.EcosystemDiscovery: return "Discover";
+                case MissionCategory.EcosystemEngagement: return "Go";
+                default: return "Go";
             }
         }
 

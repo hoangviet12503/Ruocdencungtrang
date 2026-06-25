@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_checkin_daily
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: checkin_daily
-  title: "\u0110i\u1EC3m Danh \u0110\xEAm R\u1EB1m"
-  description: "\u0110i\u1EC3m danh m\u1ED7i ng\xE0y \u0111\u1EC3 nh\u1EADn L\u01B0\u1EE3t
-    Ch\u01A1i mi\u1EC5n ph\xED."
+  title: "Mid-Autumn Check-In"
+  description: "Check in every day to earn free Plays."
   category: 0
   rewardType: 0
   rewardAmount: 20

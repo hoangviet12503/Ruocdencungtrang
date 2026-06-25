@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ItemData_Lvl7
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ItemData
   level: 7
-  displayName: "\u0110\u1EA7u L\xE2n May M\u1EAFn"
+  displayName: "Lucky Lion Head"
   icon: {fileID: 21300000, guid: 7662fffe9add65743ad30e7a9513be58, type: 3}
   glowColor: {r: 1, g: 0.45, b: 0.75, a: 1}
   nextLevelData: {fileID: 0}

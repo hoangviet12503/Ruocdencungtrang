@@ -56,7 +56,7 @@ namespace MidAutumn.UI
 
             if (goal == null)
             {
-                goalLabel.text = "Hoàn thành tất cả các màn!";
+                goalLabel.text = "All stages complete!";
                 progressFill.fillAmount = 1f;
                 progressLabel.text = string.Empty;
                 if (collectButton != null) collectButton.gameObject.SetActive(false);
@@ -66,7 +66,7 @@ namespace MidAutumn.UI
             ItemData targetItem = gm.ItemDatabase.GetByLevel(goal.targetLevel);
             int current = Mathf.Min(gm.CountItemsAtLevel(goal.targetLevel), goal.targetCount);
 
-            goalLabel.text = $"Màn {goal.stageNumber}: Thu thập {goal.targetCount}x {targetItem.displayName}";
+            goalLabel.text = $"Stage {goal.stageNumber}: Collect {goal.targetCount}x {targetItem.displayName}";
             if (goalIcon != null) goalIcon.sprite = targetItem.icon;
             progressLabel.text = $"{current}/{goal.targetCount}";
 
@@ -85,7 +85,7 @@ namespace MidAutumn.UI
         {
             if (stageClearPopup == null) return;
 
-            stageClearLabel.text = $"Hoàn thành Màn {clearedGoal.stageNumber}!\n+{clearedGoal.clearTicketReward} Lượt Chơi";
+            stageClearLabel.text = $"Stage {clearedGoal.stageNumber} Complete!\n+{clearedGoal.clearTicketReward} Plays";
             PlayPopup(stageClearPopup);
         }
 
@@ -100,7 +100,7 @@ namespace MidAutumn.UI
             if (voucherWonPopup == null) return;
 
             if (voucherWonLabel != null)
-                voucherWonLabel.text = $"Chúc mừng!\nBạn vừa trúng {voucher.title}\n({voucher.partnerName})";
+                voucherWonLabel.text = $"Congratulations!\nYou just won {voucher.title}\n({voucher.partnerName})";
             if (voucherWonIcon != null)
                 voucherWonIcon.sprite = voucher.thumbnail;
 

@@ -11,7 +11,12 @@
       "mcp__ai-game-developer__gameobject-component-get",
       "mcp__ai-game-developer__gameobject-component-modify",
       "mcp__ai-game-developer__gameobject-set-parent",
-      "mcp__ai-game-developer__assets-find-built-in"
+      "mcp__ai-game-developer__assets-find-built-in",
+      "Bash(grep -v \"m_Text: $\")",
+      "Bash(grep -v \"m_Text: v$\")",
+      "Bash(grep -v \"m_Text: TV$\")",
+      "Bash(grep -v \"m_Text: HV$\")",
+      "Bash(grep -v \"m_Text: GT$\")"
     ]
   }
 }

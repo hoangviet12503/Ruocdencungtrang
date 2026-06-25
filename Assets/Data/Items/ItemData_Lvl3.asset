@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ItemData_Lvl3
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.ItemData
   level: 3
-  displayName: "\u0110\xE8n \xD4ng Sao"
+  displayName: "Star Lantern"
   icon: {fileID: 21300000, guid: da9bd4e9e6502fa458598c24726e5e19, type: 3}
   glowColor: {r: 1, g: 0.78, b: 0.35, a: 1}
   nextLevelData: {fileID: 11400000, guid: da24de8e15e511c4883d4662d78b7678, type: 2}

@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_streak_7
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: streak_7
-  title: "Chu\u1ED7i \u0110i\u1EC3m Danh 7 Ng\xE0y"
-  description: "\u0110i\u1EC3m danh li\xEAn t\u1EE5c 7 ng\xE0y \u0111\u1EC3 nh\u1EADn
-    ph\u1EA7n th\u01B0\u1EDFng l\u1EDBn."
+  title: "7-Day Check-In Streak"
+  description: "Check in for 7 days in a row to earn a big reward."
   category: 0
   rewardType: 0
   rewardAmount: 70

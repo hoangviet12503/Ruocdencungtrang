@@ -867,7 +867,7 @@ GameObject:
   - component: {fileID: 44928266}
   - component: {fileID: 44928265}
   m_Layer: 0
-  m_Name: "Tab_Th\u1EC3 L\u1EC7"
+  m_Name: "Tab_Rules"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1706,7 +1706,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "M\xE0n 1: Thu th\u1EADp 3x \u0110\xE8n L\u1ED3ng"
+  m_Text: "Stage 1: Collect 3x Lantern"
 --- !u!222 &82915709
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2448,7 +2448,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ho\xE0n th\xE0nh M\xE0n 1!\n+20 L\u01B0\u1EE3t Ch\u01A1i"
+  m_Text: "Stage 1 Complete!\n+20 Plays"
 --- !u!222 &133399623
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2677,8 +2677,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ch\xFAc m\u1EEBng!\nB\u1EA1n \u0111\xE3 ho\xE0n th\xE0nh t\u1EA5t c\u1EA3
-    c\xE1c m\xE0n!"
+  m_Text: "Congratulations!\nYou've completed all the stages!"
 --- !u!222 &161482276
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4881,7 +4880,7 @@ GameObject:
   - component: {fileID: 328186440}
   - component: {fileID: 328186442}
   m_Layer: 0
-  m_Name: "Tab_Qu\xE0 T\u1EB7ng"
+  m_Name: "Tab_Gifts"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5422,7 +5421,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ho\xE0n th\xE0nh M\xE0n 1!\n+20 L\u01B0\u1EE3t Ch\u01A1i"
+  m_Text: "Stage 1 Complete!\n+20 Plays"
 --- !u!222 &335769201
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6982,7 +6981,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Nhi\u1EC7m V\u1EE5"
+  m_Text: "Missions"
 --- !u!222 &473229462
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8834,7 +8833,7 @@ GameObject:
   - component: {fileID: 631538986}
   - component: {fileID: 631538988}
   m_Layer: 0
-  m_Name: "Tab_\u0110\u01B0\u1EDDng \u0110ua"
+  m_Name: "Tab_Journey"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9352,7 +9351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0110\u01B0\u1EDDng \u0110ua"
+  m_Text: "Journey"
 --- !u!222 &690649184
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9581,7 +9580,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "L\xE0m m\u1EDBi nhi\u1EC7m v\u1EE5 ng\xE0y: 23:59:59"
+  m_Text: "Daily missions reset: 23:59:59"
 --- !u!222 &700069040
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10697,7 +10696,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Thu Th\u1EADp"
+  m_Text: "Collect"
 --- !u!222 &771154967
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11658,7 +11657,7 @@ GameObject:
   - component: {fileID: 827828908}
   - component: {fileID: 827828910}
   m_Layer: 0
-  m_Name: "Tab_Nhi\u1EC7m V\u1EE5"
+  m_Name: "Tab_Missions"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13229,7 +13228,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Nhi\u1EC7m V\u1EE5"
+  m_Text: "Missions"
 --- !u!222 &904939670
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16513,8 +16512,8 @@ MonoBehaviour:
   rowPrefab: {fileID: 7895571622033755606, guid: 1013bcd05bbefb04d966843d4addadb8, type: 3}
   scrollContentRoot: {fileID: 686192410}
   sectionHeaderPrefab: {fileID: 3184865533970399830, guid: 9a8dd4a641d527c408809eaece2e1cde, type: 3}
-  dailySectionTitle: "Nhi\u1EC7m V\u1EE5 H\xE0ng Ng\xE0y"
-  generalSectionTitle: "Nhi\u1EC7m V\u1EE5 Chung"
+  dailySectionTitle: "Daily Missions"
+  generalSectionTitle: "General Missions"
 --- !u!1 &1124244806
 GameObject:
   m_ObjectHideFlags: 0
@@ -16886,7 +16885,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Qu\xE0 T\u1EB7ng C\u1EE7a B\u1EA1n"
+  m_Text: "Your Gifts"
 --- !u!222 &1132807255
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17543,7 +17542,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Qu\xE0 T\u1EB7ng"
+  m_Text: "Gifts"
 --- !u!222 &1166975614
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18706,20 +18705,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "TH\u1EC2 L\u1EC6 CH\u01AF\u01A0NG TR\xCCNH\n\"R\u01AF\u1EDAC \u0110\xC8N
-    CUNG TR\u0102NG\"\n\n1. Th\u1EDDi gian di\u1EC5n ra: Ch\u01B0\u01A1ng tr\xECnh
-    di\u1EC5n ra trong 60 ng\xE0y.\n\n2. \u0110\u1ED1i t\u01B0\u1EE3ng tham gia:
-    T\u1EA5t c\u1EA3 ng\u01B0\u1EDDi d\xF9ng \u1EE9ng d\u1EE5ng MoMo.\n\n3. C\xE1ch
-    th\u1EE9c tham gia: Ng\u01B0\u1EDDi d\xF9ng s\u1EED d\u1EE5ng L\u01B0\u1EE3t
-    Ch\u01A1i \u0111\u1EC3 gh\xE9p c\xE1c v\u1EADt ph\u1EA9m tr\xEAn M\xE2m C\u1ED7
-    \u0110\xEAm R\u1EB1m, \u0111\u1EA1t \u0110\u1EA7u L\xE2n May M\u1EAFn (c\u1EA5p
-    \u0111\u1ED9 t\u1ED1i \u0111a) \u0111\u1EC3 nh\u1EADn \u0110i\u1EC3m L\u1ED3ng
-    \u0110\xE8n.\n\n4. Nh\u1EADn L\u01B0\u1EE3t Ch\u01A1i: \u0110i\u1EC3m danh h\xE0ng
-    ng\xE0y, ho\xE0n th\xE0nh nhi\u1EC7m v\u1EE5 trong tab Nhi\u1EC7m V\u1EE5.\n\n5.
-    \u0110\u1ED5i qu\xE0: S\u1EED d\u1EE5ng \u0110i\u1EC3m L\u1ED3ng \u0110\xE8n
-    \u0111\u1EC3 \u0111\u1ED5i voucher t\u1EA1i Ti\u1EC7m Qu\xE0 Trung Thu.\n\n6.
-    M\u1ECDi th\u1EAFc m\u1EAFc xin li\xEAn h\u1EC7 b\u1ED9 ph\u1EADn h\u1ED7 tr\u1EE3
-    MoMo."
+  m_Text: "PROGRAM RULES\n\"LANTERN PARADE UNDER THE MOON\"\n\n1. Duration: The program runs for 60 days.\n\n2. Eligibility: All MoMo app users.\n\n3. How to participate: Use Plays to merge items on the Mid-Autumn Tray, and reach the Lucky Lion Head (max level) to earn Lantern Points.\n\n4. Earning Plays: Daily check-in, and completing missions in the Missions tab.\n\n5. Redeeming gifts: Use Lantern Points to redeem vouchers at the Mid-Autumn Gift Shop.\n\n6. For any questions, please contact MoMo support."
 --- !u!222 &1237886736
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23263,7 +23249,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "C\xF2n 60 ng\xE0y"
+  m_Text: "60 days left"
 --- !u!222 &1488748346
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24102,7 +24088,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Qu\xE0 T\u1EB7ng C\u1EE7a B\u1EA1n"
+  m_Text: "Your Gifts"
 --- !u!222 &1549848564
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27485,7 +27471,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Th\u1EC3 L\u1EC7"
+  m_Text: "Rules"
 --- !u!222 &1745978679
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29872,7 +29858,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ch\u01A1i Game"
+  m_Text: "Play"
 --- !u!222 &1887570209
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31825,8 +31811,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "B\u1EA1n ch\u01B0a c\xF3 qu\xE0 t\u1EB7ng n\xE0o.\nH\xE3y m\u1EDF r\u01B0\u01A1ng
-    \u0111\u1EC3 c\xF3 c\u01A1 h\u1ED9i tr\xFAng voucher!"
+  m_Text: "You don't have any gifts yet.\nOpen a chest for a chance to win a voucher!"
 --- !u!222 &2018397121
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32184,7 +32169,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "M\u1EDF H\u1ED9p Qu\xE0"
+  m_Text: "Open Gift Box"
 --- !u!222 &2046026171
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32767,7 +32752,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Danh S\xE1ch Qu\xE0 T\u1EB7ng"
+  m_Text: "Gift Catalog"
 --- !u!222 &2086955430
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33880,20 +33865,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.UI.RulesScreen
   rulesBodyText: {fileID: 1237886735}
-  defaultRulesText: "TH\u1EC2 L\u1EC6 CH\u01AF\u01A0NG TR\xCCNH\n\"L\u1EAEC X\xDAC
-    X\u1EAEC - PH\xC1 C\u1ED6 TR\xD4NG TR\u0102NG\"\n\n1. Th\u1EDDi gian di\u1EC5n
-    ra: Ch\u01B0\u01A1ng tr\xECnh di\u1EC5n ra trong 60 ng\xE0y.\n\n2. \u0110\u1ED1i
-    t\u01B0\u1EE3ng tham gia: T\u1EA5t c\u1EA3 ng\u01B0\u1EDDi d\xF9ng \u1EE9ng d\u1EE5ng
-    MoMo.\n\n3. C\xE1ch th\u1EE9c tham gia: Ng\u01B0\u1EDDi d\xF9ng s\u1EED d\u1EE5ng
-    L\u01B0\u1EE3t Ch\u01A1i \u0111\u1EC3 gh\xE9p c\xE1c v\u1EADt ph\u1EA9m tr\xEAn
-    M\xE2m C\u1ED7 \u0110\xEAm R\u1EB1m, \u0111\u1EA1t \u0110\u1EA7u L\xE2n May M\u1EAFn
-    (c\u1EA5p \u0111\u1ED9 t\u1ED1i \u0111a) \u0111\u1EC3 nh\u1EADn \u0110i\u1EC3m
-    L\u1ED3ng \u0110\xE8n.\n\n4. Nh\u1EADn L\u01B0\u1EE3t Ch\u01A1i: \u0110i\u1EC3m
-    danh h\xE0ng ng\xE0y, ho\xE0n th\xE0nh nhi\u1EC7m v\u1EE5 trong tab Nhi\u1EC7m
-    V\u1EE5.\n\n5. \u0110\u1ED5i qu\xE0: S\u1EED d\u1EE5ng \u0110i\u1EC3m L\u1ED3ng
-    \u0110\xE8n \u0111\u1EC3 \u0111\u1ED5i voucher t\u1EA1i Ti\u1EC7m Qu\xE0 Trung
-    Thu.\n\n6. M\u1ECDi th\u1EAFc m\u1EAFc xin li\xEAn h\u1EC7 b\u1ED9 ph\u1EADn
-    h\u1ED7 tr\u1EE3 MoMo."
+  defaultRulesText: "PROGRAM RULES\n\"SHAKE THE DICE - MID-AUTUMN FEAST\"\n\n1. Duration: The program runs for 60 days.\n\n2. Eligibility: All MoMo app users.\n\n3. How to participate: Use Plays to merge items on the Mid-Autumn Tray, and reach the Lucky Lion Head (max level) to earn Lantern Points.\n\n4. Earning Plays: Daily check-in, and completing missions in the Missions tab.\n\n5. Redeeming gifts: Use Lantern Points to redeem vouchers at the Mid-Autumn Gift Shop.\n\n6. For any questions, please contact MoMo support."
 --- !u!224 &2146087832
 RectTransform:
   m_ObjectHideFlags: 0

@@ -18,8 +18,8 @@ namespace MidAutumn.UI
         [SerializeField] private MissionRowView rowPrefab;
         [SerializeField] private Transform scrollContentRoot;
         [SerializeField] private GameObject sectionHeaderPrefab; // has a single Text child
-        [SerializeField] private string dailySectionTitle = "Nhiệm Vụ Hàng Ngày";
-        [SerializeField] private string generalSectionTitle = "Nhiệm Vụ Chung";
+        [SerializeField] private string dailySectionTitle = "Daily Missions";
+        [SerializeField] private string generalSectionTitle = "General Missions";
 
         private void OnEnable()
         {

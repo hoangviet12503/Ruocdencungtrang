@@ -23,7 +23,7 @@ namespace MidAutumn.UI
 
             UpdateTickets(gm.Tickets);
             UpdatePoints(gm.LanternPoints);
-            daysRemainingText.text = $"Còn {gm.CampaignDaysRemaining} ngày";
+            daysRemainingText.text = $"{gm.CampaignDaysRemaining} days left";
         }
 
         private void OnDisable()
@@ -33,7 +33,7 @@ namespace MidAutumn.UI
             GameManager.Instance.OnLanternPointsChanged -= UpdatePoints;
         }
 
-        private void UpdateTickets(int value) => ticketsText.text = $"{value} Kẹo";
+        private void UpdateTickets(int value) => ticketsText.text = $"{value} Candy";
         private void UpdatePoints(int value) => lanternPointsText.text = value.ToString();
     }
 }

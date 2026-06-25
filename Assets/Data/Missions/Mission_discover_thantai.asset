@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Mission_discover_thantai
   m_EditorClassIdentifier: Assembly-CSharp::MidAutumn.Data.MissionDefinition
   id: discover_thantai
-  title: "Kh\xE1m Ph\xE1 V\xED Th\u1EA7n T\xE0i"
-  description: "Gh\xE9 th\u0103m V\xED Th\u1EA7n T\xE0i \u0111\u1EC3 nh\u1EADn L\u01B0\u1EE3t
-    Ch\u01A1i."
+  title: "Explore Than Tai Wallet"
+  description: "Visit Than Tai Wallet to earn Plays."
   category: 1
   rewardType: 0
   rewardAmount: 15
